@@ -1,0 +1,14 @@
+{
+    "name": "FSBL-Announcer",
+    "version": "1.0.0",
+    "Description": "FSBL Announcer Bot",
+    "main": "FSBL_Announcer.js",
+    "author": "Elodyn",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "discord.js": "^11.5.1",
+        "giphy-api": "^2.0.1",
+        "node-schedule": "^1.3.2",
+        "winston": "^2.4.0"
+    }
+}
