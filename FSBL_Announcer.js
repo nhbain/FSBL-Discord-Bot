@@ -2,7 +2,7 @@ var Discord = require('discord.js');
 var logger = require('winston');
 var schedule = require('node-schedule');
 var giphy = require('giphy-api')();
-var auth = require('./auth.json');
+// var auth = require('./auth.json');
 
 // Configure logger settings
 logger.remove(logger.transports.Console);
